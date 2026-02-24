@@ -1,0 +1,10 @@
+{
+  "name": "ai-club-management",
+  "version": "1.0.0",
+  "description": "AI Club Event Management System",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build needed'"
+  },
+  "dependencies": {}
+}
